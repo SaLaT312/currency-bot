@@ -1,0 +1,5 @@
+telegram_token: "YOUR_TELEGRAMM_BOT_API_TOKEN"
+redis:
+  addr: "localhost:6379"
+  pass: ""
+  db: 0
